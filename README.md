@@ -27,7 +27,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>👨‍💻 Coding Projects: </h2>
-
+- [Module3: Activity 2 Dec to Binary Conversion)]https://github.com/aissatoubarry938/Module3-Activity-2
 
 <h2>📜Certifications: </h2>
 
