@@ -3,32 +3,43 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>Module 4 Challenge Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Creating a Dynamic website for the cafe] (https://github.com/aissatoubarry938/Module-4-Challenge-Lab-Creating-a-Dynamic-Website-for-the-Cafe)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Creating a Dynamic website for the cafe](https://github.com/aissatoubarry938/Module-4-Challenge-Lab-Creating-a-Dynamic-Website-for-the-Cafe)
 
 <h2>👨‍💻 CyberSecurity Projects: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 <h2>👨‍💻 Coding Projects: </h2>
-- [Module3: Activity 2 Dec to Binary Conversion)]https://github.com/aissatoubarry938/Module3-Activity-2
+
+- <b>Decimal to Binary Conversion</b>
+  - [Decimal to Binary Conversion](https://github.com/aissatoubarry938/Module3-Activity-2) 
+- <b>Deep Dive into OSI Layer</b>
+  - [Deep Dive into OSI Layer](https://github.com/aissatoubarry938/Deep-Dive-into-OSI-Layer)
+- <b>Router Lab</b>
+  - [Router Lab](https://github.com/aissatoubarry938/Router-Lab)
+ - <b>Subnetting</b>
+   - [Subnetting](https://github.com/aissatoubarry938/Subnetting)
+
+ - <b>Git</b>
+    - [if and elif](https://github.com/aissatoubarry938/if-and-elif)
+    - [ice cream](https://github.com/aissatoubarry938/Ice-Cream)
+    - [Creating 25 empty files](https://github.com/aissatoubarry938/25_Empty-Files)
+ - <b>Java</b>
+    - [Java Projects](https://github.com/aissatoubarry938/JavaProjects)
+ - <b>HTML</b>
+ - <b>Python</b>
+ 
+<h3> Side Projects: </h3>
+
+<h2>👨‍💻 Networking Projects: </h2>
+
+<h3>Packet Tracer Projects: </h3>
+
+- <b>Packet Tracer Part C </b>
+  - [Packet Tracer Part C](https://github.com/aissatoubarry938/Packet-tracer-partC/blob/main/README.md)
+ 
+- <b>CST-3607 Packet Tracer Labs</b>
+  - [CST-3607 Packet Tracer Labs](https://github.com/aissatoubarry938/CST-3607-Packet-Tracer)
+  - [EIGRP](https://github.com/aissatoubarry938/CSt-3607-lab-EIGRP)
+ 
 
 <h2>📜Certifications: </h2>
 
@@ -40,17 +51,3 @@
 
 [linkedin]: https://www.linkedin.com/in/aissatou-b-28b07a232/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
