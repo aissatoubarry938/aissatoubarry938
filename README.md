@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Module 4 Challenge Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Dynamic website for the cafe] (https://github.com/aissatoubarry938/Module-4-Challenge-Lab-Creating-a-Dynamic-Website-for-the-Cafe)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
